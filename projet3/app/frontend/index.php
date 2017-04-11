@@ -123,39 +123,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<!-- on récupere les trois premiers chapitres -->
 						<?php include("classe/trois_prem_billets.php"); ?>
 
-							<div class="abt-2">
-								<h3>PREMIERS CHAPITRES</h3>
-								<div class="might-grid">
-									<div class="grid-might">
-										<a href="vues/single.php"><img src="images/c-12.jpg" class="img-responsive" alt=""> </a>
-									</div>
-									<div class="might-top">
-										<h4><a href="vues/single.php">Duis consectetur gravida</a></h4>
-										<p>Nullam non magna lobortis, faucibus erat eu, consequat justo. Suspendisse commodo nibh odio.</p>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="might-grid">
-									<div class="grid-might">
-										<a href="vues/single.php"><img src="images/c-10.jpg" class="img-responsive" alt=""> </a>
-									</div>
-									<div class="might-top">
-										<h4><a href="vues/single.php">Duis consectetur gravida</a></h4>
-										<p> Nullam non magna lobortis, faucibus erat eu, consequat justo. Suspendisse commodo nibh odio.</p>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-								<div class="might-grid">
-									<div class="grid-might">
-										<a href="vues/single.php"><img src="images/c-11.jpg" class="img-responsive" alt=""> </a>
-									</div>
-									<div class="might-top">
-										<h4><a href="vues/single.php">Duis consectetur gravida</a></h4>
-										<p> Nullam non magna lobortis, faucibus erat eu, consequat justo. Suspendisse commodo nibh odio.</p>
-									</div>
-									<div class="clearfix"></div>
-								</div>
-							</div>
+
 
 
 					</div>
