@@ -41,12 +41,13 @@ $req = $bdd->query('SELECT id, image, titre, IF(CHAR_LENGTH(contenu) > 100, CONC
 				<div class="clearfix"></div>
 			</div>
 
-	</div>
 
 
 
 
-	<?php
+
+			<?php
 } // Fin de la boucle des billets
 $req->closeCursor();
 ?>
+	</div>
